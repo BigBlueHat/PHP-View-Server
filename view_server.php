@@ -3,11 +3,13 @@
 /*
     CouchDB Views with PHP
     This file lets you create CouchDB Views using PHP functions.
-    begun by Jan <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x6a;&#x61;&#110;&#64;&#x70;&#104;&#112;&#x2e;&#110;&#101;&#x74;">&#x6a;&#x61;&#110;&#64;&#x70;&#104;&#112;&#x2e;&#110;&#101;&#x74;</a> for the public domain.
+    begun by Jan <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x6a;&#x61;&#110;&#64;&#x70;&#104;&#112;&#x2e;&#110;&#101;&#x74;">&#x6a;&#x61;&#110;&#64;&#x70;&#104;&#112;&#x2e;&#110;&#101;&#x74;</a>
     @link http://jan.prima.de/~jan/plok/archives/93-CouchDb-Views-with-PHP.html
     continued by Benjamin Young
     @link http://github.com/BigBlueHat/php_view_server
     PHP5+
+
+    @license Apache License 2.0
 */
 error_reporting(E_ALL);
 

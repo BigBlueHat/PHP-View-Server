@@ -12,4 +12,4 @@ Known Issues:
 * map function must return an array of key/value pairs in array($key, $value) format--unlike JS which has an emit() accumulator function
 
 ## License
-Currently, this is public domain. So feel free to perform it publicly, print it out on canvas, or wear it to your next PHP conference.
+Apache License 2.0
